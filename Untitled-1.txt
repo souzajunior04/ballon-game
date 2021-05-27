@@ -1,0 +1,11 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <title>Mec JS </title>
+
+        ><script type="text/javascript" src="script.js"></script>
+    </head>
+    <body>
+        <h1>koe</h1>
+    </body>
+</html>
